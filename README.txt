@@ -3,9 +3,11 @@ A demonstration of how to install and execute our code can be found here:
 https://www.youtube.com/watch?v=nfghWC0h5C8 
 
 
-1.DESCRIPTION
-The objective of this application is to provide travellers a tool to mitigate the adverse effects of delays by providing them accurate, customized predictions of experiencing a significant delay to use in their travel planning. To do this, this application provides travellers with predictions about the likelihood of significant delays for flights given origin, destination, carrier, date, and time. In this application, significant delay is defined as a delay greater than 30 minutes. 
+1. DESCRIPTION
+The objective of this application is to provide travellers a tool to mitigate the adverse effects of delays by providing them accurate and customized predictions of experiencing a significant flight delay for them to use in their travel planning. To do this, our application provides travellers with predictions about the likelihood of significant delays for flights given origin, destination, carrier, date, and time. In this application, significant delay is defined as a delay greater than 30 minutes. 
+
 The application consists of an interactive map designed in kepler.gl, an interactive dropdown menu using tkinter, and xgBoost predictive model. In the interactive map, users can hover over airports in the map to display baseline rates of significant delay and median delay time. Airports with longer delay times are shown with bigger circles. Airports with higher rates of significant delay are darker in color. 
+
 Data used in the predictive model comes from https://www.kaggle.com/bulter22/airline-data. 
 
 2. INSTALLATION
