@@ -25,11 +25,11 @@ geopandas
 webbrowser
 
 3.EXECUTION
--	Unzip the ‘CODE’ folder. 
--	Open terminal and navigate to the ‘CODE’ folder. 
--	In the terminal, start a python session then open ‘final_code.py’.  
--	A separate window should appear with several input choices to make via dropdown menus and searchBox input to select the origin and destination of your flight. 
--	Click ‘Ok’ after selecting all inputs. 
--	A window titled ‘Team51.io’ should appear displaying the information that was input along with a delay prediction confidence. 
--	The interactive map will automatically be saved to the ‘CODE’ folder as ‘this_map.html’ and also opened in your browser. 
--	In case the map was not shown automatically, you can open the ‘this_map.html’ manually to check the delay probably from your selected origin airport or to your selected destination airport.
+-Unzip the ‘CODE’ folder. 
+-Open terminal and navigate to the ‘CODE’ folder. 
+-In the terminal, start a python session then open ‘final_code.py’.  
+-A separate window should appear with several input choices to make via dropdown menus and searchBox input to select the origin and destination of your flight. 
+-Click ‘Ok’ after selecting all inputs. 
+-A window titled ‘Team51.io’ should appear displaying the information that was input along with a delay prediction confidence. 
+-The interactive map will automatically be saved to the ‘CODE’ folder as ‘this_map.html’ and also opened in your browser. 
+-In case the map was not shown automatically, you can open the ‘this_map.html’ manually to check the delay probably from your selected origin airport or to your selected destination airport.
